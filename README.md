@@ -4,3 +4,6 @@
 <strong>This is the official GitHub repository of the Friday Night Funkin' Repainted mod.<strong> To install replace your ingame files with the installed file. I recommend installing this via Github Desktop, using Git or downloading each file individually. The game can be found on Gamebanana too, once we have finished development.
   </body>
 </html>
+
+Mod I was a part of 3 years ago... dayum
+Fun fact: the portion of text above this is HTML... in a README file??
